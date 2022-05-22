@@ -1,0 +1,46 @@
+body {
+    background-size: cover;
+}
+
+.header {
+    margin-top: 0;
+    background-color: rgb(248, 177, 248);
+    color: rgba(0, 231, 50, 0.87);
+    border-width: 4px;
+    border-color: chartreuse;
+    border-radius: 5px;
+    font-family: cursive;
+    width: 100%;
+    font-size: 24px;
+}
+
+canvas {
+    border-width: 4px;
+    border-color: rgb(208, 233, 255);
+    border-radius: 6px;
+    margin-top: 50px;
+}
+
+#song_name {
+    background-color: rgb(255, 168, 204);
+    border-width: 5px;
+    border-radius: 6px;
+    border-color: rgb(76, 0, 255);
+    font-family: monospace;
+    color: darkslateblue;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    font-family: cursive;
+    color: mediumvioletred;
+    background-color: rgb(184, 255, 231);
+    border-width: 3px;
+    border-color: darkkhaki;
+    border-radius: 8px;
+    width: 100%;
+    font-size: 21px;
+    line-height: 3;
+    text-align: center;
+}
